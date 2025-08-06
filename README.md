@@ -1,5 +1,5 @@
 # KPZ-Decouple
-Computational algebra for research on Tensor decompositions with applications to coupled KPZ equations. 
+Computational algebra and Tensor decompositions for coupled KPZ equations. 
 Authors: Sunder Sethuraman and Shankar Venkataramani.
 
 Acknowledgements: This Mathematica code was developed to support the findings of the paper, "COUPLED KPZ EQUATIONS AND THEIR DECOUPLEABILITY"
